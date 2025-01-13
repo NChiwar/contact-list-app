@@ -1,6 +1,6 @@
 Contact List App
 
-This is a simple list app that is used to save information
+This is a simple list app that is use to save basic information
 
 ## App Screenshot
 
