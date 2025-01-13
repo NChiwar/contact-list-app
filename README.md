@@ -1,4 +1,4 @@
-Contacnt List App
+Contact List App
 
 This is a simple list app that is used to save information
 
